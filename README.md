@@ -12,13 +12,5 @@ problem-solving skills through real-world projects.
 - HTML & CSS
 - Git & GitHub
 
-## 📂 Projects
-- Task Tracker App (React)
-- Weather Dashboard (API-based)
-- REST API with Node & Express
-- Authentication System (JWT)
-- Algorithms & Data Structures Practice
-
-
 ## 📫 Contact
 - GitHub: https://github.com/zainshahbaz17
